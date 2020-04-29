@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program Files/CLion/CLionProjects/tarea4/classes.h
+
+D:/Program Files/CLion/CLionProjects/tarea4/display_tools.h
+
+D:/Program Files/CLion/CLionProjects/tarea4/main.cpp
+iostream
+-
+math_tools.h
+D:/Program Files/CLion/CLionProjects/tarea4/math_tools.h
+classes.h
+D:/Program Files/CLion/CLionProjects/tarea4/classes.h
+display_tools.h
+D:/Program Files/CLion/CLionProjects/tarea4/display_tools.h
+tools.h
+D:/Program Files/CLion/CLionProjects/tarea4/tools.h
+sel.h
+D:/Program Files/CLion/CLionProjects/tarea4/sel.h
+
+D:/Program Files/CLion/CLionProjects/tarea4/math_tools.h
+vector
+-
+math.h
+D:/Program Files/CLion/CLionProjects/tarea4/math.h
+stdlib.h
+D:/Program Files/CLion/CLionProjects/tarea4/stdlib.h
+
+D:/Program Files/CLion/CLionProjects/tarea4/sel.h
+
+D:/Program Files/CLion/CLionProjects/tarea4/tools.h
+fstream
+-
+string.h
+D:/Program Files/CLion/CLionProjects/tarea4/string.h
+
